@@ -23,7 +23,7 @@
 
 ```bash
 # One-line installation
-curl -fsSL https://raw.githubusercontent.com/[username]/rgb-linux-controller/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/philling-dev/rgb-linux-controller/main/install.sh | sudo bash
 
 # Set all RGB to blue
 sudo rgb-controller blue
@@ -52,12 +52,12 @@ sudo rgb-controller rainbow --mode "Rainbow Wave"
 
 ### Quick Install (Recommended)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/[username]/rgb-linux-controller/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/philling-dev/rgb-linux-controller/main/install.sh | sudo bash
 ```
 
 ### Manual Install
 ```bash
-git clone https://github.com/[username]/rgb-linux-controller.git
+git clone https://github.com/philling-dev/rgb-linux-controller.git
 cd rgb-linux-controller
 sudo chmod +x install_rgb_linux.sh
 sudo ./install_rgb_linux.sh
@@ -189,7 +189,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ### Development Setup
 ```bash
-git clone https://github.com/[username]/rgb-linux-controller.git
+git clone https://github.com/philling-dev/rgb-linux-controller.git
 cd rgb-linux-controller
 sudo apt install python3-dev i2c-tools
 pip3 install -r requirements.txt
@@ -209,7 +209,7 @@ Help us expand hardware support! Submit your hardware info:
 # Generate hardware report
 sudo rgb-controller --generate-report
 
-# Submit at: https://github.com/[username]/rgb-linux-controller/issues
+# Submit at: https://github.com/philling-dev/rgb-linux-controller/issues
 ```
 
 ## 📝 Changelog
