@@ -1,0 +1,30 @@
+# RGB Linux Controller Dependencies
+# 
+# NOTE: Most dependencies are automatically installed by install.sh
+# This file is for development setup only
+
+# Development dependencies (optional)
+pytest>=6.0.0          # Testing framework
+black>=21.0.0           # Code formatting  
+flake8>=3.8.0           # Code linting
+mkdocs>=1.4.0           # Documentation generation
+mkdocs-material>=8.0.0  # Documentation theme
+
+# System Dependencies (installed via apt by installer):
+# =====================================================
+# i2c-tools              # I2C bus communication
+# python3-smbus          # I2C Python interface  
+# liquidctl              # RGB cooling control
+# wget, curl, git        # Download and version control
+# 
+# Manual Downloads (handled by installer):
+# =======================================
+# OpenRGB 0.9 (https://openrgb.org/releases/release_0.9/openrgb_0.9_amd64_bookworm_b5f46e3.deb)
+#
+# Kernel Modules (auto-loaded):
+# ============================
+# i2c-dev, i2c-piix4, usbhid, hidraw
+#
+# GRUB Parameters (auto-configured):
+# =================================
+# acpi_enforce_resources=lax
