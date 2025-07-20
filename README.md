@@ -250,3 +250,5 @@ To donate, copy the address below:
 *Made with ❤️ for the Linux RGB community*
 
 **⭐ Star this repo if it helped you bring RGB to Linux!**
+
+**Keywords:** `linux`, `rgb`, `controller`, `lighting`, `corsair`, `aigo`, `gigabyte`, `openrgb`, `hardware`, `customization`, `peripheral`, `fan`, `memory`, `motherboard`
