@@ -236,14 +236,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If this project helped you achieve RGB control on Linux, consider supporting development:
 
-### 💳 PayPal
-**Email:** guicampos1992@gmail.com
+### ☕ Buy me a coffee
+**coff.ee/philling**
 
 ### 🪙 Bitcoin
 **Address:** `1Lyy8GJignLbTUoTkR1HKSe8VTkzAvBMLm`
-
-### 🇧🇷 PIX (Brazil)
-**Key:** `7b1e2d82-ae62-40cf-bdb1-1c791832bd99`
 
 ---
 
